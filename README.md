@@ -211,12 +211,16 @@ focus          AI tooling / workflows / systems / execution
 
 ```bash
 $ open https://groeimetai.io
+$ open https://groei.studio
 $ open https://www.linkedin.com/in/niels-van-der-werf-5421a5106
 ```
 
 <div align="center">
   <a href="https://groeimetai.io">
     <img src="https://img.shields.io/badge/groeimetai.io-f97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://groei.studio">
+    <img src="https://img.shields.io/badge/groei.studio-fb923c?style=for-the-badge&logo=rocket&logoColor=white" alt="Studio Groei" />
   </a>
   <a href="https://www.linkedin.com/in/niels-van-der-werf-5421a5106">
     <img src="https://img.shields.io/badge/LinkedIn-fb923c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
