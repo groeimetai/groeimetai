@@ -62,7 +62,7 @@ More of what we build at Studio Groei: [groei.studio/en/projects](https://groei.
 <p>
   <a href="https://groei.studio/en"><img src="https://img.shields.io/badge/groei.studio-0B1F3A?style=for-the-badge" alt="groei.studio"></a>
   <a href="https://groeimetai.io"><img src="https://img.shields.io/badge/groeimetai.io-1F5FD1?style=for-the-badge" alt="groeimetai.io"></a>
-  <a href="https://www.linkedin.com/in/niels-van-der-werf-5421a5106"><img src="https://img.shields.io/badge/LinkedIn-1F5FD1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/niels-van-der-werf-5421a5106/"><img src="https://img.shields.io/badge/LinkedIn-1F5FD1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <br>
